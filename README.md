@@ -1,4 +1,4 @@
-# Wealthmind_Index_Momentum_Scanner_0.1
+# Wealthmind_Index_Momentum_Scanner_Betav0.1
 Index_Momentum_Scanner_Betav0.1
 
 This Momentum Scanner Beta, implemented as index_momentum_scanner.py, is a Python module that analyzes global stock indices
