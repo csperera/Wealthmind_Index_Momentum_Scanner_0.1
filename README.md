@@ -1,0 +1,2 @@
+# Wealthmind_Index_Momentum_Scanner_0.1
+Index_Momentum_Scanner_Betav0.1
