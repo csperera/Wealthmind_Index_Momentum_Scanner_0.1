@@ -1,4 +1,4 @@
-# Wealthmind_Index_Momentum_Scanner_Beta_v0.1
+# Wealthmind_Index_Momentum_Scanner_v0.1 Beta
 
 This Momentum Scanner Beta, implemented as index_momentum_scanner.py, is a Python module that analyzes global stock indices
 (e.g., S&P 500, Nasdaq, KOSPI) using 1-year data from yfinance. It calculates the 6-month momentum—defined as the percentage 
